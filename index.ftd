@@ -12,37 +12,6 @@ documentation to add more pages.
 
 -- ds.h3: 🎯 My Business Card
 
-
--- business-card.details: John Doe
-company-name: John Doe Pvt. Ltd.
-title: Software Developer
-phone-no: +91 12345 99999
-email: john@johndoe.com
-address: 123, Block No. A-123, Times Sqaure, Bangalore - 123456
-logo: $assets.files.assets.ipsum-logo.svg
-company-slogan: If you can type you can code
-website: www.johndoe.com
-
--- ds.h3: 🌟 Whats next?
-
-Replace `John Doe` with your name, replace value of `company-name:` with your 
-company name. Likewise, do for all others.
-
--- ds.code: Update your details on business card
-lang: ftd
-
-\-- business-card.details: <user_name>	;;<hl>
-company-name: <user_name> Pvt. Ltd.	;;<hl>
-title: Chief Executive Officer	;;<hl>
-phone-no: +91 12345 99999
-email: <user_name>@<user_name>.com	;;<hl>
-address: 123, Block No. A-123, Times Sqaure, Bangalore - 123456
-logo: $assets.files.assets.ipsum-logo.svg
-company-slogan: If <user_name> can type <user_name> can code
-website: [www.<user_name>.com](https://<user_name>.github.io/<repo_name>);;<hl>
-
--- ds.h3: 🎉 Done! see your business card
-
 -- business-card.details: <user_name>
 company-name: <user_name> Pvt. Ltd.
 title: Chief Executive Officer
