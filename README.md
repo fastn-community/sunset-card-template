@@ -1,14 +1,6 @@
-# Overview
+# My Fastn Site
 
-[doc-site](https://fastn-community.github.io/doc-site/) will help you create
-a beautiful documentation site in no time.
-
-It provides out-of-the-box documentation features that can be used to create any
-kind of site(personal website, blog, etc).
-
-# Preview
-
-![doc-site](.github/assets/doc-site-example-dark.jpg)
+<user_name>.github.io/<repo_name> is created using [doc-site](https://fastn-community.github.io/doc-site/).
 
 ## Get Rolling
 
