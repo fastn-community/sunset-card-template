@@ -32,6 +32,7 @@ Copy below code snippet to create pages like this with right-sidebar.
 
 -- ds.code:
 lang: ftd
+max-height.fixed.px: 300
 
 \-- ds.page: Page with right-sidebar 👉
 sidebar: true
