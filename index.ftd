@@ -12,19 +12,4 @@ logo: $assets.files.assets.ipsum-logo.svg
 company-slogan: If can type you can code
 website: www.johndoe.com
 
--- ds.markdown:
-
-Update above card details with your name, company-name etc., to make it yours. 
-
-- Learn more about image and assets: [Click here](https://fastn-community.github.io/doc-site/components/image/)
-- Learn how to use this template: [Click here](https://fastn-community.github.io/doc-site/)
-
-You can create many such exciting things using [fastn](https://fastn.com/). 
-To know about [fastn](https://fastn.com/) - for next billion people. Checkout 
-our website - [Click here](https://fastn.com/).
-
-
-[Click here](https://fastn-community.github.io/doc-site/) to read doc-site
-documentation to add more pages.
-
 -- end: ds.page
